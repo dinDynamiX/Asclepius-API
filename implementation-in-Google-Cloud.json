@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "https://backend-api-mlgc-503688474580.asia-southeast2.run.app",
+ "frontend-service-url": "https://submissionmlgc-nursaifuddin.et.r.appspot.com",
+ "project-id": "submissionmlgc-nursaifuddin",
+ "bucket-name": "fuddin-mlgc-bucket"
+}
